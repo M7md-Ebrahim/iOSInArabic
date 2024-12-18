@@ -148,8 +148,8 @@
 <img alt="Ahmed Fathy" src="./Images/Ahmed Fathy.png">
 
 - **[Channel Link](https://youtube.com/@ahmedfathe9411?si=t_C9JJnZijtnKWcs)**
-- **Description**: Dive into the world of Reactive programming, whether you’re a fan of RxSwift or prefer Combine. He break down complex concepts into easy-to-digest content, making MVVM and reactive frameworks not only accessible but exciting!
-- **Topics Covered**: MVVM, Reactive programming(Combine, RxSwift)
+- **Description**: Dive into the world of Reactive programming, whether you’re a fan of RxSwift or prefer Combine. He break down complex concepts into easy-to-digest content, making MVVM and reactive frameworks not only accessible but exciting! Also, he created a playlist focused on Unit Testing 
+- **Topics Covered**: MVVM, Reactive programming(Combine, RxSwift), Unit Testing(XCTest, Swift Testing)
 
 ---
 
@@ -159,5 +159,23 @@
 - **[Channel Link](https://www.youtube.com/@hassanmostafa2650)**
 - **Description**: This channel covers various iOS development topics, featuring a great video on the importance of unit testing with a practical example.
 - **Topics Covered**: UIKit
+  
+--- 
+
+### Mariam Elenna
+<img alt="Mariam Elenna" src="./Images/Mariam Elenna.png">
+
+- **[Blog Link](https://substack.com/@mariamelenna)**
+- **Description**: Discover the first-ever Arabic blog that dives into a world of captivating iOS development topics, and much more! Mariam Elenna brings insightful content with a unique perspective in Arabic.
+- **Topics Covered**: iOS development
+  
+--- 
+
+### Mohamed Sayed Abd El Maksoud
+<img alt="Mohamed Sayed Abd El Maksoud" src="./Images/Mohamed Sayed Abd El Maksoud.png">
+
+- **[Shorts Link](https://youtube.com/@mohamedsayedabdelmaksoud8450)**
+- **Description**: Quick iOS development tips in YouTube Shorts – perfect for learning on the go!
+- **Topics Covered**: iOS development tips
   
 --- 
