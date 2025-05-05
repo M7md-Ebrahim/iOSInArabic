@@ -179,3 +179,12 @@
 - **Topics Covered**: iOS development tips
   
 --- 
+
+### Moustafa Essam 
+<img alt="Moustafa Essam" src="./Images/Moustafa Essam.png">
+
+- **[Channel Link](https://www.youtube.com/@IMostfa)**
+- **Description**: A live series exploring the Swift compiler and attempting to implement a new feature from scratch. A must-watch for anyone curious about Swift internals, compiler development, and open source.
+- **Topics Covered**: Swift Compiler
+  
+--- 
