@@ -188,3 +188,12 @@
 - **Topics Covered**: Swift Compiler
   
 --- 
+
+### Codcast by Ahmed Emad
+<img alt="Ahmed Emad" src="./Images/Ahmed Emad.png">
+
+- **[Channel Link](https://www.youtube.com/@DevAhmedEmad)**
+- **Description**: An iOS podcast called Codcast, hosted by Ahmed Emad. He invites iOS developers to talk about how they started, grew, and continue to evolve in the iOS development world.
+- **Topics Covered**: iOS Dev, Career Advice, Personal Growth
+  
+--- 
